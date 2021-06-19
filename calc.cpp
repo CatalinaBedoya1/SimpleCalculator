@@ -1,7 +1,4 @@
 /*
-Catalina Bedoya
-CSCI 135
-Project 1B
 This program builds a simple calculator that can add and subtract integers
 will also accept arbitrarily long mathematical formulas composed of symbols
 and non-negative numbers
